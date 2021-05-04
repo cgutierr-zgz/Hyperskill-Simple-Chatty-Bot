@@ -1,5 +1,5 @@
 # Hyperskill-Simple-Chatty-Bot-Kotlin
-A simple chatty bot, made at Hyperskill
+A simple chatty bot
 
 # Output examples
 ```example1
